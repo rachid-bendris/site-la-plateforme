@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/*------------------------------------HEADER------------------------------------------------*/
+
+nav ul{
+    list-style-type: none;
+}
+
+.lih{
+    float: left ;
+    width: 13%;
+    text-align: right;
+}
+
+nav ul::after{
+    content:"";
+    display:table;
+    clear:both;
+
+}
+nav{
+    width: 100%;
+    margin: 0;
+    background-color: rgb(151, 151, 25);
+    position: sticky;
+
+}
+nav a{
+    display:block;
+    text-decoration: none;
+    color: black;
+    border-bottom: 2px solid transparent;
+    padding: 10px 0px;
+
+}
+nav a:hover{
+    color: rgb(237, 237, 75);
+    border-bottom: 2px  black; 
+}
+
+.logo{
+    color: white;
+}
+
+/*------------------------------------FOOTER------------------------------------------------*/
+
+.navf{
+    display: flex;
+    justify-content: space-around;
+    font-size: 100%;
+    
+  
+    
+}
+
+.navfr{
+    /*position: absolute;*/
+    bottom: 0;
+    display: flex;
+    justify-content: space-around;
+    font-size: 100%;
+}
+.h1footer{
+    font-size: 100%;
+    color :white;
+}
+
+/*------------------------------------BOODY------------------------------------------------*/
+
+
+.cadre{
+    display: flex;
+    justify-content: space-around;
+    margin-right: 10%;
+    margin-left: 10%;
+    margin: 10%;
+}
+.nw
+{
+    width: 40%;
+    padding: 10%;
+    font-size: 170%;
+    /*margin-bottom: 50%;*/
+}
+.imageplateforme
+{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    
+}
+.photo
+{
+    margin: 0;
+    padding: 0;
+}
+.change{
+    text-align: center;
+    color: red;
+    margin-top: 5%;
+}
+.filiale{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}   
+.boutton{
+    border-radius: 5px;
+    border: 0;
+    outline: 0;
+    background: red;
+    text-align: center;
+    cursor: pointer;
+    font-size: 100%;
+    width: 100%;
+    padding: 1%;
+    color: white;
+    margin-top: 5%;
+}
+.cadre2{
+    text-align: center;
+    }
+.wn{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3%;
+    margin-bottom: 3%; 
+}
+  
+.lili{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+.tit{
+    text-align: center;
+    color: red;
+    margin-top: 5%;
+}

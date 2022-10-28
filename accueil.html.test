@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>La Plateforme.io</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="laplateforce.css">
+</head>
+
+<header>
+    <nav class="nav">
+        <div class="container">
+            <h1 class="logo"><a href="#">La Plateforme</a></h1>
+            <ul>
+                <li><a href="acceuil.html" class="current">Accueil</a></li>
+                <li><a href="qui-somme-nous.html">Qui somme-nous ?</a></li>
+                <li><a href="plateforme-start.html">plateforme-start</a></li>
+                <li><a href="#">Spécialisations</a></li>
+                <li><a href="#">Entreprise</a></li>
+                <li><a href="#">Kids</a></li>
+                <li><a href="#">News</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+</header>
+
+
+
+
+<body>
+
+
+
+    <div class="container">
+        <p>La Plateforme le campus méditerranéen<br> du numérique !<br>
+            Des parcours frais de scolarité à zéro<br>
+            euros, ouverts à tous les talents, sans<br>
+            conditions de ressources et de<br>
+            diplômes.<br>
+            Le digital c’est maintenant !
+        </p>
+    </div>
+    
+    <div class="button-hover">
+        <a class="link" href="#">Les inscriptions sont<br>ouvertes !*</a>
+    </div>
+    <hr>
+    <h1>Se former aux métiers du numérique</h1>
+
+    <div class="container">
+        <div>
+            <p>Web Coding<br>
+                <br>
+                Développeur Web et Web Mobile,<br>
+                RNCP niveau 5 (BAC+2)<br>
+                Concepteur Développeur<br>
+                d’application, RNCP niveau 6<br>
+                (BAC+3)<br>
+                <br>
+                Quel que soit votre âge, formez-vous<br>
+                gratuitement en 1 ou 2 ans aux<br>
+                métiers du développement web /<br>
+                mobile, grâce à un modèle<br>
+                pédagogique unique qui s’adapte aux<br>
+                besoins de chacun. Donnez vous la<br>
+                chance de faire du numérique votre<br>
+                avenir.
+            </p>
+        
+            <div><button>Découvrir</button>
+        </div>
+    </div>
+
+        <div>
+            <p>Intelligence Artificielle IA<br>
+                <br>
+                Développeur IA, Bachelor (BAC+3)<br>
+                Chef de projet IA, MSc (BAC+5)<br>
+                Post Graduate CentraleDigitaleLAB,<br>
+                postgraduate (BAC+6)<br>
+                <br>
+                Passionné de data, mordu d’algo ?<br>
+                Rejoignez l’école de l’Intelligence<br>
+                Artificielle qui propose deux cursus de<br>
+                haut niveau destinés à former de futurs<br>
+                experts en IA et data. La Plateforme_<br>
+                propose également en partenariat avec<br>
+                l’école Centrale de Marseille, un Post<br>
+                Graduate en Intelligence Artificielle.
+            </p>
+            <div><button>Découvrir</button></div>
+        </div>
+        <div>
+            <p>Cyber Security<br>
+                <br>
+                Développeur Sécurité, Bachelor<br>
+                (BAC+3)<br>
+                Administrateur Sécurité, Bachelor<br>
+                (BAC+3)<br>
+                Responsable de la Protection des<br>
+                Données (DPO), MSc (BAC+5)<br>
+                <br>
+                La sécurité informatique vous<br>
+                passionne ? Découvrez nos 3<br>
+                programmes de formation pour devenir<br>
+                un expert de la Sécurité des Systèmes<br>
+                d’Information.
+            </p>
+            <div><button>Découvrir</button></div>
+        </div>
+
+    </div>
+    <h1>Accélérez votre transformation numérique</h1>
+
+
+
+</body>
+<footer>
+
+
+
+</footer>
+
+
+</html>
